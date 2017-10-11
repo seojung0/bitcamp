@@ -9,7 +9,7 @@ public class Test12_2 {
         //100=200; 
         System.out.println(i);
         System.out.println(j);
-        //i= 3.14;        컴파일오류 정적타입바인딩
+        //i= 3.14;        컴파일오류 정적타입바인딩asd
       }
     }
  
