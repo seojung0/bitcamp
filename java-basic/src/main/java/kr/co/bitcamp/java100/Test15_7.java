@@ -10,7 +10,7 @@ public class Test15_7 {
             System.out.printf("10>=20 ? %b\n",10>=20);
 
 
-      }
+      } 
 
       }
     
