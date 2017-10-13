@@ -1,4 +1,4 @@
-package kr.co.bitcamp.java100;
+//package kr.co.bitcamp.java100;
 
 public class Test15_1 {
       public static void main(String[] ags) {

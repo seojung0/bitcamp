@@ -121,14 +121,27 @@ public class Test16_2 {
         }else {
             System.out.println("노인");
         }
-
-
-
-
-
-
-
+        System.out.println("---------------------------------");
+        
+        for(int i = 2; i < 10; i++) {
+            for(int a = 1; a < 10; a++) {
+                int result = i*a;
+                if(i == a) {
+                    continue;
+                }
+                System.out.printf("%d*%d=%d\n",i,a,result);
+            }
+        }
+        for(int i = 1; i < 6; i++) {
+            for(int j = 0; j < i; j++) {
+                System.out.print("@");
+               
+            }
+            System.out.println();
+        }
+     
+            }
     }
 
-}
+
 
